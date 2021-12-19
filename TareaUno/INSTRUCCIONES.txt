@@ -1,0 +1,6 @@
+ -Se creo en java, Neatbeans 12.0
+ -El archivo primero se convirtio en .csv(delimitado por comas) para poder leerlo, este mismo se adjunta 
+  dentro de la carpeta .zip con el nombre de "presenciaredes.csv" este nombre se especifico dentro del codigo
+  del programa, por lo que si se cambia el nombre fallarà el programa (a menos que cambie el nombre dentro del codigo)
+
+ -Muy buen ejercicio, por fin me voy a dormir, gracias y buenas noches.
